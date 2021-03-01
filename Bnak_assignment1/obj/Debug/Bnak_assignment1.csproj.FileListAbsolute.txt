@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\Bnak_assignment1\Bnak_assignment1\obj\Debug\Bnak_assignment1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bnak_assignment1\Bnak_assignment1\obj\Debug\Bnak_assignment1.csproj.CoreCompileInputs.cache

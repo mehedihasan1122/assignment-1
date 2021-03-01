@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bnak_assignment1", "Bnak_assignment1\Bnak_assignment1.csproj", "{FC47AA33-5823-4E7A-8ACE-BC5BA3C35ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC47AA33-5823-4E7A-8ACE-BC5BA3C35ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC47AA33-5823-4E7A-8ACE-BC5BA3C35ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC47AA33-5823-4E7A-8ACE-BC5BA3C35ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC47AA33-5823-4E7A-8ACE-BC5BA3C35ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C267924F-532A-44B8-BEAD-EBD169BAFE7B}
+	EndGlobalSection
+EndGlobal
