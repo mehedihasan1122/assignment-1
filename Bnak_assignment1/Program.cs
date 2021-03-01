@@ -20,7 +20,7 @@ namespace Bnak_assignment1
             bobj.Withdraw(50);
             acod.ShowAccountInformation();
 
-            bobj.BankName = "Shonali";
+            bobj.BankName = "Agrani";
             bobj.PrintAccountDetails();
         }
     }
