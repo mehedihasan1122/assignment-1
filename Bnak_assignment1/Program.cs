@@ -33,6 +33,7 @@ namespace Bnak_assignment1
             }
             bobj.Transaction();
             bobj.PrintAccountDetails();
+            Console.ReadLine();
 
 
             //acod.GetAddress("230", "nikunja", "dhaka", "BD");
