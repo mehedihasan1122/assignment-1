@@ -25,13 +25,13 @@ namespace Bnak_assignment1
             AccountNumber = Convert.ToString(i);
             i++;
             Console.WriteLine("Road No: ");
-            Roadno = Console.ReadLine();
+            roadNo = Console.ReadLine();
             Console.WriteLine("House No: ");
-            Houseno = Console.ReadLine();
+            houseNo = Console.ReadLine();
             Console.WriteLine("City: ");
-            City = Console.ReadLine();
+            city = Console.ReadLine();
             Console.WriteLine("Country: ");
-            Country = Console.ReadLine();
+            country = Console.ReadLine();
             
         }
         

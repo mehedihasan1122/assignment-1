@@ -5,3 +5,10 @@ C:\Users\User\source\repos\Bnak_assignment1\Bnak_assignment1\bin\Debug\Bnak_assi
 C:\Users\User\source\repos\Bnak_assignment1\Bnak_assignment1\bin\Debug\Bnak_assignment1.pdb
 C:\Users\User\source\repos\Bnak_assignment1\Bnak_assignment1\obj\Debug\Bnak_assignment1.exe
 C:\Users\User\source\repos\Bnak_assignment1\Bnak_assignment1\obj\Debug\Bnak_assignment1.pdb
+D:\C#\Bnak_assignment1\Bnak_assignment1\obj\Debug\Bnak_assignment1.csprojAssemblyReference.cache
+D:\C#\Bnak_assignment1\Bnak_assignment1\obj\Debug\Bnak_assignment1.csproj.CoreCompileInputs.cache
+D:\C#\Bnak_assignment1\Bnak_assignment1\obj\Debug\Bnak_assignment1.exe
+D:\C#\Bnak_assignment1\Bnak_assignment1\obj\Debug\Bnak_assignment1.pdb
+D:\C#\Bnak_assignment1\Bnak_assignment1\bin\Debug\Bnak_assignment1.exe.config
+D:\C#\Bnak_assignment1\Bnak_assignment1\bin\Debug\Bnak_assignment1.exe
+D:\C#\Bnak_assignment1\Bnak_assignment1\bin\Debug\Bnak_assignment1.pdb
